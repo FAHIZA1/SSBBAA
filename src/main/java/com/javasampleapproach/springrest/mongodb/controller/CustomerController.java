@@ -19,6 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.javasampleapproach.springrest.mongodb.model.Customer;
 import com.javasampleapproach.springrest.mongodb.repo.CustomerRepository;
+//comment line added for demo purpose to make changes!!!
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController
